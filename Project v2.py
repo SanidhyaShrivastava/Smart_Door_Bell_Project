@@ -142,7 +142,6 @@ while True:
 
 
 
-
     # Display the resulting image
     cv2.imshow('Video', frame)
     if cv2.waitKey(1) & 0xFF == ord('s'): 
