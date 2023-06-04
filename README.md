@@ -1,3 +1,3 @@
 # Smart_Door_Bell_Project
 
-Led a team of 4 students to build smart doorbell in Python 3.2 with ability to recognize the person image and notify the home owner with voice announcement of person identify by matching the mining the data from non-relational data base. Hosted project in AWS cloud and deployed in classroom as working model.
+I led a team of four students in creating a cutting-edge Python 3.2-based Smart doorbell. Our project boasts an impressive feature set, including the ability to accurately identify the individual in the image and relay a voice announcement to the homeowner by cross-referencing data from a non-relational database. In addition, we seamlessly integrated our project with the AWS cloud and successfully deployed it as a fully-functional model in our classroom.
